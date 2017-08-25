@@ -1,0 +1,6 @@
+xiaoMing,20,shanghai
+xiaoHong,30,beijing
+xiaowang,25,chengdu
+xiaoZhang,20,chengdu
+xiaoZhang,20,chengdu
+xiaoZhang,20,chengdu
